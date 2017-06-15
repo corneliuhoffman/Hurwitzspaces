@@ -309,6 +309,3 @@ Exec(s);
 od;
 listOfGroups;
  f := SingleHTTPRequest( domain, 80, "GET", uri, rec(), false, false );
-Syntax error, unexpected identifier, expecting ';'
-Syntax error, unexpected identifier, expecting ';'
-Syntax error
